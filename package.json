@@ -1,0 +1,12 @@
+{
+  "name": "hellokoa",
+  "version": "1.0.0",
+  "description": "Simple Hello World Koa for performance",
+  "main": "index.js",
+  "author": "Trinh Minh Cuong",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "koa": "^2.2.0"
+  }
+}
